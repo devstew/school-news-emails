@@ -1,0 +1,51 @@
+<mjml>
+    <mj-head>
+        <mj-font href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap"/>
+    </mj-head>
+    <mj-body background-color="#fff" color="#55575d" font-family="Arial, sans-serif">
+        <mj-section padding-left="15px" padding-bottom="0" padding-right="15px" text-align="center" width="100%"
+                    vertical-align="center">
+            <mj-column width="50%">
+                <mj-image padding="0" align="center" border="none" src="assets/images/header_image.png" target="_blank"
+                          title="header-image"></mj-image>
+            </mj-column>
+            <mj-column width="50%" border-radius="20px 20px 0px 0px" padding-bottom="11px" padding-top="11px"
+                       background-color="#f4f4f9">
+                <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
+                    <img style="width: 20px; height: 25px; padding-right: 6px;" src="assets/icons/pointer-icon.png"/>
+                    <a href="http://twohootsprimary.sch.uk"
+                       style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold"
+                       target="_blank">twohootsprimary.sch.uk
+                    </a>
+                </mj-text>
+                <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
+                    <img style="width: 20px; height: 25px; padding-right: 6px;" src="assets/icons/pointer-icon.png"/>
+                    <a href="mailto:office@twohootsprimary.sch.uk"
+                       style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold">
+                        office@twohootsprimary.sch.uk
+                    </a>
+                </mj-text>
+                <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
+                    <img style="width: 20px; height: 25px; padding-right: 6px;" src="assets/icons/pointer-icon.png"/>
+                    <a href="tel: 01234 56 78 90"
+                       style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold">
+                        01234 56 78 90
+                    </a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-left="15px" padding-right="15px" padding-bottom="10px" padding-top="10px" border-radius="20px 0 20px 0" background-color="#34c4f0" width="100%"
+                    vertical-align="center">
+            <mj-column width="50%">
+                <mj-text color="#fff" font-size="18px" font-weight="bold" align="left">
+                    Two Hoots Primary School
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%">
+                <mj-text color="#fff" font-size="18px" font-weight="lighter" align="right">
+                    June 2020 Newsletter
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
