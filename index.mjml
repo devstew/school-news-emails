@@ -6,41 +6,91 @@
         <mj-section padding-left="15px" padding-bottom="0" padding-right="15px" text-align="center" width="100%"
                     vertical-align="center">
             <mj-column width="50%">
-                <mj-image padding="0" background-size="cover" alt="email_logo" height="120px" align="center" border="none" src="https://assets-global.website-files.com/6005fac27a49a9cd477afb63/60576840e7d265198541a372_bavassano_homepage_gp.jpg" target="_blank"
+                <mj-image padding="0" background-size="cover" alt="email_logo" height="120px" align="center"
+                          border="none"
+                          src="https://assets-global.website-files.com/6005fac27a49a9cd477afb63/60576840e7d265198541a372_bavassano_homepage_gp.jpg"
+                          target="_blank"
                           title="header-image"></mj-image>
             </mj-column>
             <mj-column width="50%" border-radius="20px 20px 0px 0px" padding-bottom="11px" padding-top="5px"
                        background-color="#f4f4f9">
                 <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
-                    <img style="width: 20px; height: 25px; padding-right: 6px;" src="assets/icons/pointer-icon.png"/>
+                    <img style="width: 20px; height: 21px; padding-top:2px; padding-bottom: 2px; padding-right: 6px;"
+                         src="http://52.188.10.120/icons/pionter.png"/>
                     <a href="http://twohootsprimary.sch.uk"
                        style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold"
                        target="_blank">twohootsprimary.sch.uk
                     </a>
                 </mj-text>
                 <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
-                    <img style="width: 20px; height: 25px; padding-right: 6px;" src="assets/icons/pointer-icon.png"/>
+                    <img style="width: 20px; height: 21px; padding-top:2px; padding-bottom: 2px; padding-right: 6px;"
+                         src="http://52.188.10.120/icons/email.png"/>
                     <a href="mailto:office@twohootsprimary.sch.uk"
                        style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold">
                         office@twohootsprimary.sch.uk
                     </a>
                 </mj-text>
                 <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
-                    <img style="width: 20px; height: 25px; padding-right: 6px;" src="assets/icons/pointer-icon.png"/>
+                    <img style="width: 20px; height: 21px; padding-top:2px; padding-bottom: 2px; padding-right: 6px;"
+                         src="http://52.188.10.120/icons/phone.png"/>
                     <a href="tel: 01234 56 78 90"
                        style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold">
                         01234 56 78 90
                     </a>
                 </mj-text>
             </mj-column>
-            <mj-column width="50%" background-color="#34c4f0" border-radius="20px 0 0 0" padding-top="5px" padding-bottom="5px">
+            <mj-column width="50%" background-color="#34c4f0" border-radius="20px 0 0 0" padding-top="5px"
+                       padding-bottom="5px">
                 <mj-text color="#fff" font-size="18px" font-weight="bold" align="left">
                     Two Hoots Primary School
                 </mj-text>
             </mj-column>
-            <mj-column width="50%" background-color="#34c4f0"  border-radius="0 0 20px 0" padding-top="5px" padding-bottom="5px">
+            <mj-column width="50%" background-color="#34c4f0" border-radius="0 0 20px 0" padding-top="5px"
+                       padding-bottom="5px">
                 <mj-text color="#fff" font-size="18px" font-weight="lighter" align="right">
                     June 2020 Newsletter
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff" padding="20px 15px">
+            <mj-column>
+                <mj-image src="http://191n.mj.am/img/191n/3s/x2w.jpg" align="left" alt="image_tag" height="172.5px"
+                          width="275px"
+                          padding="0px" />
+            </mj-column>
+            <mj-column>
+                <mj-image src="http://191n.mj.am/img/191n/3s/x2x.jpg" align="right" height="172.5px" alt="image_tag"
+                          width="275px"
+                          padding="0px" />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="20px 15px">
+            <mj-column background-color="#ffc515" width="48%" border-radius="5px">
+                <mj-text color="#fff">
+                    <p style="font-size: 19px; font-weight: bold">Boxed text</p>
+                    <p style="font-size: 14px; font-weight: lighter">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel scelerisque urna. Cras vitae
+                        odio molestie, mattis dui a, auctor nibh. Vivamus pretium sagittis erat eu aliquet. Nulla cursus
+                        lacus fermentum nisl finibus, quis hendrerit elit vehicula. Integer faucibus ac dui sed finibus.
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="4%"></mj-column>
+            <mj-column background-color="#ffc515" width="48%" border-radius="5px">
+                <mj-text color="#fff">
+                    <p style="font-size: 19px; font-weight: bold">Boxed text</p>
+                    <p style="font-size: 14px; font-weight: lighter">
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel scelerisque urna. Cras vitae
+                        odio molestie, mattis dui a, auctor nibh. Vivamus pretium sagittis erat eu aliquet. Nulla cursus
+                        lacus fermentum nisl finibus, quis hendrerit elit vehicula. Integer faucibus ac dui sed finibus.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="footer" padding="20px 15px">
+            <mj-column border-radius="10px" background-color="#34c4f0" padding-top="3px" padding-bottom="3px">
+                <mj-text style="font-size: 14px; font-weight: normal" color="#fff">
+                    footer
                 </mj-text>
             </mj-column>
         </mj-section>
