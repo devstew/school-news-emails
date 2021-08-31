@@ -66,7 +66,7 @@
         </mj-section>
         <mj-section padding="20px 15px">
             <mj-column background-color="#ffc515" width="48%" border-radius="5px">
-                <mj-text color="#fff">
+                <mj-text color="#fff" padding="10px 16px">
                     <p style="font-size: 19px; font-weight: bold">Boxed text</p>
                     <p style="font-size: 14px; font-weight: lighter">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel scelerisque urna. Cras vitae
@@ -77,7 +77,7 @@
             </mj-column>
             <mj-column width="4%"></mj-column>
             <mj-column background-color="#ffc515" width="48%" border-radius="5px">
-                <mj-text color="#fff">
+                <mj-text color="#fff" padding="10px 16px">
                     <p style="font-size: 19px; font-weight: bold">Boxed text</p>
                     <p style="font-size: 14px; font-weight: lighter">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vel scelerisque urna. Cras vitae
