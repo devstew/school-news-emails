@@ -1,0 +1,199 @@
+<mjml>
+    <mj-head>
+        <mj-font href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap"/>
+    </mj-head>
+    <mj-body background-color="#fff" color="#55575d" font-family="Arial, sans-serif">
+        <mj-section padding-left="15px" padding-bottom="0" padding-right="15px" text-align="center" width="100%"
+                    vertical-align="center">
+            <mj-column width="50%">
+                <mj-image padding="0" background-size="cover" alt="email_logo" height="120px" align="center"
+                          border="none"
+                          src="https://assets-global.website-files.com/6005fac27a49a9cd477afb63/60576840e7d265198541a372_bavassano_homepage_gp.jpg"
+                          target="_blank"
+                          title="header-image"></mj-image>
+            </mj-column>
+            <mj-column width="50%" border-radius="20px 20px 0px 0px" padding-bottom="11px" padding-top="5px"
+                       background-color="#f4f4f9">
+                <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
+                    <img style="width: 20px; height: 21px; padding-top:2px; padding-bottom: 2px; padding-right: 6px;"
+                         src="http://52.188.10.120/icons/pionter.png"/>
+                    <a href="http://twohootsprimary.sch.uk"
+                       style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold"
+                       target="_blank">twohootsprimary.sch.uk
+                    </a>
+                </mj-text>
+                <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
+                    <img style="width: 20px; height: 21px; padding-top:2px; padding-bottom: 2px; padding-right: 6px;"
+                         src="http://52.188.10.120/icons/email.png"/>
+                    <a href="mailto:office@twohootsprimary.sch.uk"
+                       style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold">
+                        office@twohootsprimary.sch.uk
+                    </a>
+                </mj-text>
+                <mj-text padding-left="15px" padding-top="4px" padding-bottom="4px">
+                    <img style="width: 20px; height: 21px; padding-top:2px; padding-bottom: 2px; padding-right: 6px;"
+                         src="http://52.188.10.120/icons/phone.png"/>
+                    <a href="tel: 01234 56 78 90"
+                       style="vertical-align: super; text-decoration: none; font-size: 14px; color: #444444; font-family: Ubuntu, sans-serif; font-weight: bold">
+                        01234 56 78 90
+                    </a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%" background-color="#34c4f0" border-radius="20px 0 0 0" padding-top="5px"
+                       padding-bottom="5px">
+                <mj-text color="#fff" font-size="18px" font-weight="bold" align="left">
+                    Two Hoots Primary School
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%" background-color="#34c4f0" border-radius="0 0 20px 0" padding-top="5px"
+                       padding-bottom="5px">
+                <mj-text color="#fff" font-size="18px" font-weight="lighter" align="right">
+                    June 2020 Newsletter
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section text-align="left" padding="20px 15px">
+            <mj-column width="50%" padding="0">
+                <mj-text color="#444444" padding="0">
+                    <p style="font-size: 19px; font-weight: bold;">This is heading</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section text-align="left" padding="20px 15px">
+            <mj-column width="50%" border-bottom="3px solid rgba(68,68,68,0.25)" padding-bottom="14px">
+                <mj-text color="#444444" padding="0 0 0 7.5px">
+                    <h1 style="font-size: 19px; font-weight: bold;">Events</h1>
+                </mj-text>
+                <mj-text padding="0 0 0 7.5px" color="#fff" mj-class="event-date">
+                    <span style="font-size: 19px;
+                    font-weight: bold;
+                    display: table-cell;
+                    background-color: #f15955;
+                    width: 45px;
+                    height:21px;
+                    padding-top: 6px;
+                    margin: 0;
+                    text-align: center;
+                    border-radius: 5px 5px 0 0 "
+                    >
+                        13
+                    </span>
+                    <span padding="0" style="font-size: 19px; font-weight: bold;
+                    display: table-cell;
+                    color: #444444;
+                    width: 150px;
+                    padding: 0 0 0 9.5px;
+                    margin: 0;
+                    text-align: left;
+                    vertical-align: top;
+                    border-radius: 0 0 5px 5px ">
+                        This is an event
+                    </span>
+                    <span padding="0" style="font-size: 10px; font-weight: bold;
+                    background-color: #f15955;
+                    display: block;
+                    width: 45px;
+                    margin: 0;
+                    height:19px;
+                    text-align: center;
+                    text-transform: uppercase;
+                    border-radius: 0 0 5px 5px ">
+                        OCT
+                    </span>
+                    <span padding="0" style="font-size: 14px; font-weight: normal;
+                    display: table-cell;
+                    color: #444444;
+                    width: 150px;
+                    padding: 0 0 0 55px;
+                    margin: 0;
+                    text-align: left;
+                    vertical-align: top;
+                    border-radius: 0 0 5px 5px ">
+                        Lorem ipsum kek
+                    </span>
+                </mj-text>
+                <mj-text mj-class="event-time" color="#f15955" padding="0px 18px">
+                    <span style="padding: 0;
+                    font-size: 10px;
+                    font-weight: normal;
+                    margin: 0">
+                        12:00
+                    </span>
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%">
+
+            </mj-column>
+            <mj-column width="50%" border-bottom="3px solid rgba(68,68,68,0.25)" padding-bottom="14px">
+                <mj-text padding="10px 0 0 7.5px" color="#fff" mj-class="event-date-no-time">
+                    <span style="font-size: 19px;
+                    font-weight: bold;
+                    display: table-cell;
+                    background-color: #f15955;
+                    width: 45px;
+                    height:21px;
+                    padding-top: 6px;
+                    margin: 0;
+                    text-align: center;
+                    border-radius: 5px 5px 0 0 "
+                    >
+                        14
+                    </span>
+                    <span padding="0" style="font-size: 19px; font-weight: bold;
+                    display: table-cell;
+                    color: #444444;
+                    width: 150px;
+                    padding: 0 0 0 9.5px;
+                    margin: 0;
+                    text-align: left;
+                    vertical-align: top;
+                    border-radius: 0 0 5px 5px ">
+                        This is an event
+                    </span>
+                    <span padding="0" style="font-size: 10px; font-weight: bold;
+                    background-color: #f15955;
+                    display: block;
+                    width: 45px;
+                    margin: 0;
+                    height:19px;
+                    text-align: center;
+                    text-transform: uppercase;
+                    border-radius: 0 0 5px 5px ">
+                        OCT
+                    </span>
+                    <span padding="0" style="font-size: 14px; font-weight: normal;
+                    display: table-cell;
+                    color: #444444;
+                    width: 150px;
+                    padding: 0 0 0 55px;
+                    margin: 0;
+                    text-align: left;
+                    vertical-align: top;
+                    border-radius: 0 0 5px 5px ">
+                        Lorem ipsum kek
+                    </span>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="5px 15px" text-align="left" mj-class="divider">
+            <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
+        </mj-section>
+
+        <mj-section text-align="left">
+            <mj-column width="50%">
+                <mj-button align="left" background-color="#ffc515" height="20px" color="#fff" border-radius="24px"
+                           font-size="19px"
+                           href="#"
+                           font-weight="bold"
+                           padding-bottom="10px" padding-top="10px">
+                    <mj-image>
+                        <img style="width: 20px; padding-right: 6px; vertical-align: bottom"
+                             src="http://52.188.10.120/icons/pionter.png"/>
+                    </mj-image>
+                    Download PDF
+                </mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
