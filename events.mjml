@@ -52,18 +52,15 @@
                 </mj-text>
             </mj-column>
         </mj-section>
-        <mj-section text-align="left" padding="20px 15px">
+        <mj-section text-align="left" padding="20px 0 0 15px">
             <mj-column width="50%" padding="0">
-                <mj-text color="#444444" padding="0">
-                    <p style="font-size: 19px; font-weight: bold;">This is heading</p>
+                <mj-text color="#444444" padding-left="8px">
+                    <p style="font-size: 19px; font-weight: bold;">Events</p>
                 </mj-text>
             </mj-column>
         </mj-section>
-        <mj-section text-align="left" padding="20px 15px">
-            <mj-column width="50%" border-bottom="3px solid rgba(68,68,68,0.25)" padding-bottom="14px">
-                <mj-text color="#444444" padding="0 0 0 7.5px">
-                    <h1 style="font-size: 19px; font-weight: bold;">Events</h1>
-                </mj-text>
+        <mj-section text-align="left" padding="0px 15px">
+            <mj-column width="11%" border-bottom="3px solid rgba(68,68,68,0.25)" padding-bottom="14px">
                 <mj-text padding="0 0 0 7.5px" color="#fff" mj-class="event-date">
                     <span style="font-size: 19px;
                     font-weight: bold;
@@ -78,17 +75,6 @@
                     >
                         13
                     </span>
-                    <span padding="0" style="font-size: 19px; font-weight: bold;
-                    display: table-cell;
-                    color: #444444;
-                    width: 150px;
-                    padding: 0 0 0 9.5px;
-                    margin: 0;
-                    text-align: left;
-                    vertical-align: top;
-                    border-radius: 0 0 5px 5px ">
-                        This is an event
-                    </span>
                     <span padding="0" style="font-size: 10px; font-weight: bold;
                     background-color: #f15955;
                     display: block;
@@ -99,17 +85,6 @@
                     text-transform: uppercase;
                     border-radius: 0 0 5px 5px ">
                         OCT
-                    </span>
-                    <span padding="0" style="font-size: 14px; font-weight: normal;
-                    display: table-cell;
-                    color: #444444;
-                    width: 150px;
-                    padding: 0 0 0 55px;
-                    margin: 0;
-                    text-align: left;
-                    vertical-align: top;
-                    border-radius: 0 0 5px 5px ">
-                        Lorem ipsum kek
                     </span>
                 </mj-text>
                 <mj-text mj-class="event-time" color="#f15955" padding="0px 18px">
@@ -121,58 +96,32 @@
                     </span>
                 </mj-text>
             </mj-column>
-            <mj-column width="50%">
-
-            </mj-column>
-            <mj-column width="50%" border-bottom="3px solid rgba(68,68,68,0.25)" padding-bottom="14px">
-                <mj-text padding="10px 0 0 7.5px" color="#fff" mj-class="event-date-no-time">
-                    <span style="font-size: 19px;
-                    font-weight: bold;
-                    display: table-cell;
-                    background-color: #f15955;
-                    width: 45px;
-                    height:21px;
-                    padding-top: 6px;
-                    margin: 0;
-                    text-align: center;
-                    border-radius: 5px 5px 0 0 "
-                    >
-                        14
-                    </span>
+            <mj-column width="39%" border-bottom="3px solid rgba(68,68,68,0.25)" padding-bottom="14px">
+                <mj-text padding="0 0 0 7.5px" color="#fff" mj-class="event-date">
                     <span padding="0" style="font-size: 19px; font-weight: bold;
                     display: table-cell;
                     color: #444444;
-                    width: 150px;
-                    padding: 0 0 0 9.5px;
+                    padding: 0 0 15px 0;
                     margin: 0;
                     text-align: left;
-                    vertical-align: top;
-                    border-radius: 0 0 5px 5px ">
+                    vertical-align: top;">
                         This is an event
                     </span>
-                    <span padding="0" style="font-size: 10px; font-weight: bold;
-                    background-color: #f15955;
-                    display: block;
-                    width: 45px;
-                    margin: 0;
-                    height:19px;
-                    text-align: center;
-                    text-transform: uppercase;
-                    border-radius: 0 0 5px 5px ">
-                        OCT
-                    </span>
                     <span padding="0" style="font-size: 14px; font-weight: normal;
-                    display: table-cell;
+                    display: table-row;
                     color: #444444;
-                    width: 150px;
-                    padding: 0 0 0 55px;
+                    padding: 0 0 5px 5px;
                     margin: 0;
+                    height: 25px;
                     text-align: left;
-                    vertical-align: top;
-                    border-radius: 0 0 5px 5px ">
+                    overflow: hidden;
+                    vertical-align: top;">
                         Lorem ipsum kek
                     </span>
                 </mj-text>
+            </mj-column>
+            <mj-column width="50%">
+
             </mj-column>
         </mj-section>
 
