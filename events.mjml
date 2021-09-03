@@ -120,28 +120,167 @@
                     </span>
                 </mj-text>
             </mj-column>
-            <mj-column width="50%">
-
+            <mj-column width="25%">
+                <mj-image src="http://go.mailjet.com/tplimg/mtrq/b/ox8s/mg1q9.png" alt="image" border-radius="5px"
+                          width="125px" height="77.5px" padding="0 0 10px 0"/>
+                <mj-image src="http://go.mailjet.com/tplimg/mtrq/b/ox8s/mg1q9.png" alt="image" border-radius="5px"
+                          width="125px"
+                          height="77.5px"
+                          padding="0"/>
+            </mj-column>
+            <mj-column width="25%">
+                <mj-image src="http://go.mailjet.com/tplimg/mtrq/b/ox8s/mg1q9.png" alt="image" border-radius="5px"
+                          width="125px" height="77.5px" padding="0 0 10px 0" mj-class="image-group-item"/>
+                <mj-image src="http://go.mailjet.com/tplimg/mtrq/b/ox8s/mg1q9.png" alt="image" width="125px"
+                          border-radius="5px"
+                          height="77.5px"
+                          padding="0"/>
             </mj-column>
         </mj-section>
 
         <mj-section padding="5px 15px" text-align="left" mj-class="divider">
             <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
+            <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
         </mj-section>
 
-        <mj-section text-align="left">
+        <mj-section text-align="left" padding="5px 15px">
             <mj-column width="50%">
                 <mj-button align="left" background-color="#ffc515" height="20px" color="#fff" border-radius="24px"
                            font-size="19px"
                            href="#"
                            font-weight="bold"
-                           padding-bottom="10px" padding-top="10px">
+                           padding-bottom="10px" padding-top="10px" padding-left="0px">
                     <mj-image>
                         <img style="width: 20px; padding-right: 6px; vertical-align: bottom"
                              src="http://52.188.10.120/icons/pionter.png"/>
                     </mj-image>
                     Download PDF
                 </mj-button>
+            </mj-column>
+
+            <mj-column width="2.5%" padding="0">
+                <mj-text padding="0" height="125px">
+                    <p style=" height: 125px; color: rgba(0,0,0,0); background-size: cover; background-repeat: no-repeat; background-image: url('assets/images/left-b.png')"
+                       margin="0" width="30px">.
+                    </p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="45%" padding="0">
+                <mj-text padding="0" height="125px" align="center">
+                    <p style="padding-top: 45px; color: #424242; font-size: 19px; font-weight: bolder; text-align: center">Zhuba Kekovich</p>
+                    <p style="padding-top: 0px; font-size: 14px; font-weight: bolder; text-align: center">Chestnut class</p>
+                </mj-text>
+            </mj-column>
+            <mj-column width="2.5%" padding="0">
+                <mj-text padding="0" height="125px">
+                    <p style=" height: 125px; color: rgba(0,0,0,0); background-size: cover; background-repeat: no-repeat; background-image: url('assets/images/right-b.png')"
+                       margin="0" width="30px">.
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="5px 15px" text-align="left" mj-class="divider">
+            <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
+            <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
+        </mj-section>
+
+        <mj-section text-align="left" padding="20px 15px">
+            <mj-column width="50%">
+                <mj-social font-size="15px" icon-size="40px" mode="horizontal" padding="0" align="left">
+                    <mj-social-element icon-padding="5px" name="facebook" href="https://facebook.com"
+                                       background-color="#1977f2" border-radius="50%">
+                    </mj-social-element>
+                    <mj-social-element icon-padding="5px" name="twitter" href="https://twitter.com"
+                                       background-color="#1da1f1" border-radius="50%">
+                    </mj-social-element>
+                    <mj-social-element icon-padding="5px" name="instagram" href="https://instagram.com"
+                                       background-color="#ef5d33" border-radius="50%">
+                    </mj-social-element>
+                    <mj-social-element icon-padding="5px" name="linkedin" href="https://linkedin.com"
+                                       background-color="#0078b6" border-radius="50%">
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="5px 15px" text-align="left" mj-class="divider">
+            <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
+            <mj-column background-color="#444444" width="50%" padding="3px 2px"/>
+        </mj-section>
+
+        <mj-section text-align="left" padding="10px 0 0 15px">
+            <mj-column width="50%" padding="0">
+                <mj-text color="#444444" padding-left="8px">
+                    <p style="font-size: 19px; font-weight: bold;">Attendance</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding="5px 15px" mj-class="attendance">
+            <mj-column width="50%">
+                <mj-text padding="0 0 7px 8px">
+                    <span style="width: 225px;
+                    padding:10px 15px;
+                    font-size: 14px;
+                    text-align: left;
+                    font-weight: bold;
+                    border-radius: 6px 0px 0px 6px;
+                    display: table-cell; color: #115555;
+                    background-color: #ffc515"
+                    >
+                        Chestnut class
+                    </span>
+                    <span style="width: 32px;
+                    border-radius: 0 6px 6px 0;
+                    font-size: 14px;
+                    font-weight: lighter;
+                    padding: 10px 15px;
+                    display: table-cell;
+                    background-color: #f4f4f9"> 90% </span>
+                </mj-text>
+                <mj-text padding="0 0 7px 8px">
+                    <span style="width: 225px;
+                    padding:10px 15px;
+                    font-size: 14px;
+                    text-align: left;
+                    font-weight: bold;
+                    border-radius: 6px 0px 0px 6px;
+                    display: table-cell; color: #115555;
+                    background-color: #ffc515"
+                    >
+                        Chestnut class
+                    </span>
+                    <span style="width: 32px;
+                    border-radius: 0 6px 6px 0;
+                    font-size: 14px;
+                    font-weight: lighter;
+                    padding: 10px 15px;
+                    display: table-cell;
+                    background-color: #f4f4f9"> 90% </span>
+                </mj-text>
+                <mj-text padding="0 0 7px 8px">
+                    <span style="width: 225px;
+                    padding:10px 15px;
+                    font-size: 14px;
+                    text-align: left;
+                    font-weight: bold;
+                    border-radius: 6px 0px 0px 6px;
+                    display: table-cell; color: #115555;
+                    background-color: #ffc515"
+                    >
+                        Chestnut class
+                    </span>
+                    <span style="width: 32px;
+                    border-radius: 0 6px 6px 0;
+                    font-size: 14px;
+                    font-weight: lighter;
+                    padding: 10px 15px;
+                    display: table-cell;
+                    background-color: #f4f4f9"> 90% </span>
+                </mj-text>
+            </mj-column>
+            <mj-column width="50%">
             </mj-column>
         </mj-section>
     </mj-body>
