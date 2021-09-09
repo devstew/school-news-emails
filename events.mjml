@@ -167,8 +167,12 @@
             </mj-column>
             <mj-column width="45%" padding="0">
                 <mj-text padding="0" height="125px" align="center">
-                    <p style="padding-top: 45px; color: #424242; font-size: 19px; font-weight: bolder; text-align: center">Zhuba Kekovich</p>
-                    <p style="padding-top: 0px; font-size: 14px; font-weight: bolder; text-align: center">Chestnut class</p>
+                    <p style="padding-top: 45px; color: #424242; font-size: 19px; font-weight: bolder; text-align: center">
+                        Zhuba Kekovich
+                    </p>
+                    <p style="padding-top: 0px; font-size: 14px; font-weight: bolder; text-align: center">Chestnut
+                        class
+                    </p>
                 </mj-text>
             </mj-column>
             <mj-column width="2.5%" padding="0">
@@ -216,72 +220,127 @@
                 </mj-text>
             </mj-column>
         </mj-section>
+        <mj-section padding="5px 0px" mj-class="attendance">
+            <mj-column width="40%" padding="0">
+                <mj-text padding="0" font-size="12px">
+                    <p padding="0">Chestnut class</p>
+                </mj-text>
+                <mj-text padding="0">
+                    <span style="width: 80%;
+                    padding:10px 15px;
+                    font-size: 14px;
+                    text-align: left;
+                    font-weight: bold;
+                    border-radius: 6px 0px 0px 6px;
+                    display: table-cell;
+                    color: transparent;
+                    background-color: #ffc515"
+                    >.</span>
+                    <span style="width: 15%;
+                    border-radius: 0 6px 6px 0;
+                    font-size: 14px;
+                    font-weight: lighter;
+                    padding: 10px 15px;
+                    color: transparent;
+                    display: table-cell;
+                    background-color: #f4f4f9">.</span>
+                    <span style="display: table-cell; width: 5%; text-align: center; word-break: keep-all; padding: 0 5px; font-size: 12px">
+                        90%
+                    </span>
+                </mj-text>
 
-        <mj-section padding="5px 15px" mj-class="attendance">
-            <mj-column width="50%">
-                <mj-text padding="0 0 7px 8px">
-                    <span style="width: 225px;
-                    padding:10px 15px;
-                    font-size: 14px;
-                    text-align: left;
-                    font-weight: bold;
-                    border-radius: 6px 0px 0px 6px;
-                    display: table-cell; color: #115555;
-                    background-color: #ffc515"
-                    >
-                        Chestnut class
-                    </span>
-                    <span style="width: 32px;
-                    border-radius: 0 6px 6px 0;
-                    font-size: 14px;
-                    font-weight: lighter;
-                    padding: 10px 15px;
-                    display: table-cell;
-                    background-color: #f4f4f9"> 90% </span>
+                <mj-text padding="0" font-size="12px">
+                    <p padding="0">Chestnut class</p>
                 </mj-text>
-                <mj-text padding="0 0 7px 8px">
-                    <span style="width: 225px;
+                <mj-text padding="0">
+                    <span style="width: 30%;
                     padding:10px 15px;
                     font-size: 14px;
                     text-align: left;
                     font-weight: bold;
                     border-radius: 6px 0px 0px 6px;
-                    display: table-cell; color: #115555;
+                    display: table-cell;
+                    color: transparent;
                     background-color: #ffc515"
-                    >
-                        Chestnut class
-                    </span>
-                    <span style="width: 32px;
+                    >.</span>
+                    <span style="width: 65%;
                     border-radius: 0 6px 6px 0;
                     font-size: 14px;
                     font-weight: lighter;
                     padding: 10px 15px;
+                    color: transparent;
                     display: table-cell;
-                    background-color: #f4f4f9"> 90% </span>
+                    background-color: #f4f4f9">.</span>
+                    <span style="display: table-cell; width: 5%; text-align: center; word-break: keep-all; padding: 0 5px; font-size: 12px">
+                        30%
+                    </span>
                 </mj-text>
-                <mj-text padding="0 0 7px 8px">
-                    <span style="width: 225px;
+
+                <mj-text padding="0" font-size="12px">
+                    <p padding="0">Chestnut class</p>
+                </mj-text>
+                <mj-text padding="0">
+                    <span style="width: 70%;
                     padding:10px 15px;
                     font-size: 14px;
                     text-align: left;
                     font-weight: bold;
                     border-radius: 6px 0px 0px 6px;
-                    display: table-cell; color: #115555;
+                    display: table-cell;
+                    color: transparent;
                     background-color: #ffc515"
-                    >
-                        Chestnut class
-                    </span>
-                    <span style="width: 32px;
+                    >.</span>
+                    <span style="width: 25%;
                     border-radius: 0 6px 6px 0;
                     font-size: 14px;
                     font-weight: lighter;
                     padding: 10px 15px;
+                    color: transparent;
                     display: table-cell;
-                    background-color: #f4f4f9"> 90% </span>
+                    background-color: #f4f4f9">.</span>
+                    <span style="display: table-cell; width: 5%; text-align: center; word-break: keep-all; padding: 0 5px; font-size: 12px">
+                        70%
+                    </span>
                 </mj-text>
             </mj-column>
+            <mj-column width="50%">
+                <mj-table>
+                    <tr style="height:45px; text-align:left;padding:0; background-repeat: no-repeat; background-image: url('assets/images/top.png'); background-position: center; background-size: contain">
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                    <tr style="text-align:left;padding:15px 0;">
+                        <th style="width: 2.6px; border-collapse: collapse; background-color: #f6c748"></th>
+                        <th style="padding: 0;"></th>
+                        <th style="width: 2.6px; border-collapse: collapse; background-color: #f6c748"></th>
+                    </tr>
+                    <tr style="text-align: center; font-weight: bold; font-size: large">
+                        <td style="width: 2.6px; border-collapse: collapse; background-color: #f6c748"></td>
+                        <td style="padding: 0 0px;">Xanthe Mowatt</td>
+                        <td style="width: 2.6px; border-collapse: collapse; background-color: #f6c748"></td>
+                    </tr>
+                    <tr style="text-align: center; font-weight: bold; font-size: small">
+                        <td style="width: 2.6px; border-collapse: collapse; background-color: #f6c748"></td>
+                        <td style="padding: 0px; text-align: center">Chestnut class</td>
+                        <td style="width: 2.6px; border-collapse: collapse; background-color: #f6c748"></td>
+                    </tr>
+                    <tr style="height:15px; text-align:left;padding:0; background-repeat: no-repeat; background-image: url('assets/images/bottom.png'); background-position: center; background-size: contain">
+                        <th></th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+
+
+
+        <mj-section padding="5px 15px">
             <mj-column width="50%">
             </mj-column>
         </mj-section>
     </mj-body>
 </mjml>
+
+<!--<div style="border-right: 3px solid red; width: 100%; padding-bottom: 100%; color: transparent">.</div>-->
